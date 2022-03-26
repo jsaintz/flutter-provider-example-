@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_provider_example/model/produto_model.dart';
-import 'package:flutter_provider_example/model/user_model.dart';
+import 'package:flutter_provider_example/model/produto/produto_model.dart';
+import 'package:flutter_provider_example/model/user/user_model.dart';
 import 'package:flutter_provider_example/widget/produto_widget.dart';
 import 'package:provider/provider.dart';
 
